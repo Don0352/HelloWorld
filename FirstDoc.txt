@@ -3,12 +3,3 @@ test
 add another line
 
 one more line
-
-line aaa
-
-line bbb
-
-aaaaaa
-
-bbbbb
-new line for test
